@@ -1,5 +1,7 @@
 # example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/egg-gzip-curl.svg)](https://greenkeeper.io/)
+
 
 
 ## QuickStart
